@@ -2,4 +2,5 @@
 def line
   if (!line.length)
     puts "The line is currently empty."
+  end
 end
